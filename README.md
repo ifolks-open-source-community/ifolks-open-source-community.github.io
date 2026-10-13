@@ -1,0 +1,38 @@
+<p align="center">
+  <img src="assets/ifolks-osc-logo.jpg" alt="iFolks Open Source Community Logo" width="220" />
+</p>
+
+<h1 align="center">iFolks Open Source Community</h1>
+
+<p align="center">
+  <a href="https://ifolks.org"><img src="https://img.shields.io/badge/Website-ifolks.org-blue.svg" alt="Website" /></a>
+  <a href="https://ifolks-org.atlassian.net/wiki/spaces/IFOLKSOSC/overview"><img src="https://img.shields.io/badge/Documentation-Portal-brightgreen.svg" alt="Documentation" /></a>
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License" />
+</p>
+
+<p align="center">
+  <strong>The Web Gateway &amp; Portal for the iFolks Open Source Community</strong>
+</p>
+
+---
+
+## 🌐 Official Community Portal
+
+To prevent documentation drift, our official guides, architectural pillars, and project directories are maintained on our community portal:
+
+👉 **[ifolks.org](https://ifolks.org)** *(Redirects to the official Confluence overview)*
+
+---
+
+## 📦 Open Source Projects
+
+* 🛠 **[iFolks Generator](https://github.com/ifolks-open-source-community/ifolks-generator)**: The Model-Driven Scaffolding & Code Generation Platform.
+  * Documentation: [generator.ifolks.org](https://generator.ifolks.org)
+* 🧰 **[iFolks Commons](https://github.com/ifolks-open-source-community/ifolks-commons)**: Enterprise Cross-Cutting Concerns, Structured JSON Observability & AOP Foundation.
+  * Documentation: [commons.ifolks.org](https://commons.ifolks.org)
+
+---
+
+## 📝 License
+
+Distributed under the **Apache Software License, Version 2.0**. See [`LICENCE.md`](LICENCE.md) for details.
